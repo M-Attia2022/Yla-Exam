@@ -5,3 +5,7 @@
 
 ## شاشة ادارة الاختبارات 
 <img width="720" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٣-٠٤٠١٤٨" src="https://github.com/user-attachments/assets/47f25758-e312-4752-8024-81166db1d3f4" />
+### شاشة اضافة الامتحان
+<img width="720" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٣-٠٤٠٢٠٠" src="https://github.com/user-attachments/assets/0c2e0136-8acb-436b-8e4e-596389bdc4a8" />
+## ملف الدكتور الشخصي
+<img width="720" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٣-٠٤٠٢٥٣" src="https://github.com/user-attachments/assets/219beb49-2b0b-4528-989f-17e66fb103ce" />
