@@ -25,9 +25,8 @@
 💾 حفظ البيانات محلياً: دمج Shared Preferences لحفظ تفضيلات المستخدم وبيانات الجلسات لضمان تجربة دخول سريعة ومخصصة.
 
 بناء وتطوير هذا التطبيق باستخدام Flutter كان تحدياً رائعاً 🎯، ركزت فيه على تقديم تجربة مستخدم (UX) خالية من المشاكل مع كتابة كود نظيف وقابل للتطوير.
-
-
 ##Flutter #Supabase #GetX #MVVM #MobileDevelopment #Dart #Programming #LinkedIn #Portfolio #CleanCode
+
 <img width="1920" height="1440" alt="143shots_so" src="https://github.com/user-attachments/assets/3d517667-8105-417e-abbf-a2d32c8b9fe4" />
 
 
