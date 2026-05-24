@@ -14,3 +14,7 @@
 
 ## ملف الدكتور الشخصي
 <img width="720" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٣-٠٤٠٢٥٣" src="https://github.com/user-attachments/assets/219beb49-2b0b-4528-989f-17e66fb103ce" />
+
+
+## ادارة الترمات (المحاضرات - الملفات)
+<img width="720" height="1640" alt="Screenshot_٢٠٢٦٠٥٢٣-٠٤٠١١٤" src="https://github.com/user-attachments/assets/71025088-f80c-493b-b85d-e4bc6e7e39da" />
